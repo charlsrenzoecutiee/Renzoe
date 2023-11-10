@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<title>para kay darline</title>
+<p>message kolang <br>
+A relationship is not about having a handsome boyfriend or a pretty girlfriend. It's not about trying to make things perfect because there are no perfect relationships. But it's finding someone who matches you and would accept the worst of you and will go through everything without giving up on you.<br> <br>hemm hemm ako nato HAHAHAH</p>
+<script type"text/JavaScript">
+alert("hi po")
+alert("may gusto lang po akong sabihin")
+alert("pero sana pumayag kana")
+alert("hmmmmm..")
+alert("pede naba akong")
+alert("manligaw sayo?")
+</script>
+<body style="background-color:pink">
+<form action"process.php"method="post">
+<input type="button"value="yes" onclick="getElementById('demo').innerHTML='yessssss iloveeeyouuu '" />
+<input type="button"value="no" onclick="getElementById('repeat').innerHTML='awtsss'" />
+<h3 id="demo"></h3>
+<h3 id="repeat"></h3>
+</form>
+</body>
+</html>
+
